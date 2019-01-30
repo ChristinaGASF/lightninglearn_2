@@ -9,7 +9,7 @@ CircleCI integrates with GitHub, GitHub Enterprise, and Bitbucket. Every time yo
 CircleCI automatically runs your build in a clean container or virtual machine, allowing you to test every commit.
 - Notifications
 Your team is notified if a build fails so issues can be fixed quickly.
--Automated Deployment
+- Automated Deployment
 Passing builds are deployed to various environments so your product goes to market faster.
 
 ## Outlining of findings while using this technology. 
