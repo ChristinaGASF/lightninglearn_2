@@ -20,6 +20,8 @@ Passing builds are deployed to various environments so your product goes to mark
 
 - Would you use it in your project? Would it significantly increase your skill set?
 
+<img src=https://circleci.com/docs/assets/img/docs/org-centric-ui.png>
+
 ## Links to relevant resources:
 
 - Circle CI website, https://circleci.com/
