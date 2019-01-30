@@ -19,8 +19,8 @@ Passing builds are deployed to various environments so your product goes to mark
 
 - Would you use it in your project? Would it significantly increase your skill set?
 
-<img src=https://marketplace-screenshots.githubusercontent.com/7/f9459062-33e3-11e7-87ba-4ca56e8f1b43?auto=webp&format=jpeg&width=670&dpr=1.5>
-<img src=https://marketplace-screenshots.githubusercontent.com/7/f9459062-33e3-11e7-87ba-4ca56e8f1b43?auto=webp&format=jpeg&width=670>
+
+https://marketplace-screenshots.githubusercontent.com/7/f9459062-33e3-11e7-87ba-4ca56e8f1b43?auto=webp&format=jpeg&width=670
 
 ## Links to relevant resources:
 
