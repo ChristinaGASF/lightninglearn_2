@@ -19,7 +19,8 @@ Passing builds are deployed to various environments so your product goes to mark
 
 - Would you use it in your project? Would it significantly increase your skill set?
 
-<img src=https://circleci.com/docs/assets/img/docs/org-centric-ui.png>
+<img src=https://marketplace-screenshots.githubusercontent.com/7/edd31f74-33e3-11e7-8899-c8ceb4d795d2?auto=webp&format=jpeg&width=670&dpr=1.5>
+<img src=https://marketplace-screenshots.githubusercontent.com/7/f9459062-33e3-11e7-87ba-4ca56e8f1b43?auto=webp&format=jpeg&width=670>
 
 ## Links to relevant resources:
 
@@ -31,7 +32,7 @@ Passing builds are deployed to various environments so your product goes to mark
 ## Video Tutorials:
 
 Circle CI YouTube
-https://www.youtube.com/channel/UC9_Pmtv-cUccKkusuapItMQ/videos?flow=grid&view=0&sort=p
+- https://www.youtube.com/channel/UC9_Pmtv-cUccKkusuapItMQ/videos?flow=grid&view=0&sort=p
 
 Learn how to quickly get your project running on CircleCI 2.0. (1:59 min)
-https://www.youtube.com/watch?v=KhjwnTD4oec
+- https://www.youtube.com/watch?v=KhjwnTD4oec
