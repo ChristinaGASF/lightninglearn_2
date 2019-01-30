@@ -13,9 +13,8 @@ Your team is notified if a build fails so issues can be fixed quickly.
 Passing builds are deployed to various environments so your product goes to market faster.
 
 ## Outlining of findings while using this technology. 
-- 
-- 
-- 
+- Allows teams to rapidly release code they trust by automating the build, test, and delivery process.
+
 - Would you recommend it as a solution to the problem it states it solves? 
 
 - Would you use it in your project? Would it significantly increase your skill set?
@@ -26,6 +25,8 @@ Passing builds are deployed to various environments so your product goes to mark
 
 - Circle CI website, https://circleci.com/
 - Circle CI GitHub, https://github.com/circleci
+- Getting Started, https://circleci.com/docs/2.0/getting-started/#adding-a-yml-file
+- More about YAML, https://en.wikipedia.org/wiki/YAML#Advanced_components
 
 ## Video Tutorials:
 
